@@ -1,1 +1,2 @@
 # landing-page
+This is a landing page project built as part of The Odin Project's Foundations Course. The goal of this assignment is to practice structuring HTML, applying CSS (especially Flexbox), and recreating a webpage from a design mockup.
